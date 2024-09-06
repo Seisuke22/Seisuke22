@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on (https://seisuke-rails-watchlist-new-d58ab1ae512a.herokuapp.com/) A personal watchlist with a thousands of movies available
 
-- 🌱 I’m currently learning **React & Docker**
+- 🌱 I’m currently learning **React, Docker & AWS**
 
 - 👯 I’m looking to collaborate on **Ruby on Rails related projects!**
 
