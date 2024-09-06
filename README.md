@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seisuke Fukuda</h1>
 <h3 align="center">A recent graduate from Le Wagon Tokyo, experienced in building web applications with Ruby on Rails and JavaScript. With a background in business management,I combine technical skills with a strong understanding of business needs. Eager to bring my creativity, problem-solving abilities, and enthusiasm for learning to a dynamic tech team.</h3>
 
-- 🔭 I’m currently working on [https://seisuke-rails-watchlist-new-d58ab1ae512a.herokuapp.com/)
+- 🔭 I’m currently working on [https://seisuke-rails-watchlist-new-d58ab1ae512a.herokuapp.com/) A personal watchlist with a thousands of movies available
 
 - 🌱 I’m currently learning **React**
 
